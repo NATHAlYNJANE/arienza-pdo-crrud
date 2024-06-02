@@ -1,9 +1,9 @@
 <?php
 // Database configuration using PDO
 $servername = "localhost";
-$username = "root";
-$password = "";
-$database = "arienza";
+$username = "u593341949_dev_arienza";
+$password = "20211733Arienza";
+$database = "u593341949_db_arienza";
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);

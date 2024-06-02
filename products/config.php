@@ -1,9 +1,9 @@
 <?php
 
 $host = 'localhost';
-$dbname = 'arienza';
-$username = 'root';
-$password = '';
+$dbname = 'u593341949_db_arienza';
+$username = 'u593341949_dev_arienza';
+$password = '20211733Arienza';
 /*
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'u593341949_dev_demo');

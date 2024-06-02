@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $servername = "localhost";
-$username = "root";
-$password = "";
-$database = "arienza";
+$username = "u593341949_dev_arienza";
+$password = "20211733Arienza";
+$database = "u593341949_db_arienza";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
